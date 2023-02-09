@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylarZzz
 - 👀 I’m interested in gaming and music
-- 🌱 I’m currently learning database system I
+- 🌱 I’m currently trying to graduate
 - 📫 How to reach me wzhang3@wpi.edu
 
 <!---
